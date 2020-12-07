@@ -11,7 +11,7 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "nuxt": "^2.14.6",
-    "moduleA":  "https://github.com/Fenics-artem/moduleA#v0.10.0"
+    "moduleA":  "https://github.com/Fenics-artem/moduleA#v0.13.0"
   },
   "devDependencies": {}
 }
