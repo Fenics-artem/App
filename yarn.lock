@@ -4881,6 +4881,10 @@ mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@^0.5.3, mkdirp@~0.5.1:
   dependencies:
     minimist "^1.2.5"
 
+"moduleA@https://github.com/Fenics-artem/moduleA#v0.10.0":
+  version "0.10.0"
+  resolved "https://github.com/Fenics-artem/moduleA#3a576eaa6348c0ef995863ed14deb9fbe1434b16"
+
 move-concurrently@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/move-concurrently/-/move-concurrently-1.0.1.tgz#be2c005fda32e0b29af1f05d7c4b33214c701f92"
